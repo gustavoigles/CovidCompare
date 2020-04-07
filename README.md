@@ -4,6 +4,7 @@ Covid compare and charts.
 
 ### Local development
 Clone the repo: git clone https://github.com/ggihoff/CovidCompare.git
+
 Install npm package: npm i
 
 ## Available Scripts
